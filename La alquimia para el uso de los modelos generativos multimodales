@@ -1,0 +1,59 @@
+La alquimia para el uso de los modelos generativos multimodales: reducción del gap creativo mediante la
+combinación de instrucción, referencias y plantilla
+
+Los modelos generativos multimodales son herramientas poderosas capaces de crear contenidos 
+en diversos formatos —texto, imágenes, video, audio, y más— a partir de indicaciones textuales
+u otros tipos de inputs. Sin embargo, uno de los desafíos principales en su uso es la brecha o
+gap creativo que suele existir entre la expectativa del usuario y el resultado generado por el modelo.
+
+Esta discrepancia se produce porque, a pesar de la instrucción dada, los modelos enfrentan un espacio 
+inmenso y ambiguo de posibilidades creativas. La simple indicación textual suele ser insuficiente para 
+guiar con precisión la generación, lo que puede derivar en resultados poco ajustados a lo esperado o 
+irrelevantes para el propósito específico.
+
+Además, en contextos multimodales donde intervienen referencias visuales, estilos o formatos particulares, 
+esta dificultad se magnifica. Por ello, se vuelve indispensable contar con un enfoque que permita reducir 
+la aleatoriedad inherente y acercar el output generado a la intención y contexto del usuario
+
+Posibles soluciones al problema
+Para reducir la brecha creativa entre la expectativa del usuario y el output generado por modelos 
+multimodales, se propone el empleo de las siguientes estrategias conjuntas:
+
+1. Definición clara y precisa de la instrucción
+Formular prompts detallados que especifiquen claramente el objetivo, contexto y restricciones de la tarea, 
+para minimizar ambigüedades.
+
+2. Incorporación de referencias concretas
+Proveer ejemplos, imágenes, documentos, atributos o estilos relacionados que sirvan como anclas conceptuales y/o 
+estéticas, orientando al modelo hacia resultados más relevantes.
+
+3. Uso de plantillas o estructuras base
+Definir formatos, esquemas o espacios preestablecidos donde debe inscribirse el output (como un mockup sin fondo ni color),
+que actúan como marco delimitador y organizador de la generación.
+
+4. Construcción de pipelines creativos
+Utilizar outputs generados como inputs para etapas posteriores o para otros modelos, permitiendo refinamiento 
+iterativo y mayor control sobre el producto final.
+
+5. Validación y retroalimentación humana
+Integrar procesos de revisión y ajustes humanos para corregir desviaciones y orientar mejor las siguientes 
+generaciones. Incluso podria consistir en mejorar la doucmentación de las referencias, o la organización de la 
+documentación, o los tipos de outputs posibles.
+
+A esta combinación de recursos le llamos la alquimia para el uso de los modelos generativos multimodales.
+
+
+
+Ingredientes de la Alquimia
+
+Output = Instrucción + Referencias + Plantilla (formato del output esperado)  
+
+Instrucción: Define la tarea y el propósito del output (qué se quiere lograr).
+
+Referencias: Materiales concretos (imágenes, ejemplos, atributos descriptivos) que anclan el estilo, contenido y 
+contexto, reduciendo la ambigüedad.
+
+Plantilla o espacio de generación: El formato o base donde se inscribirá el output (ej. mockup sin colores ni fondo), 
+que delimita el área de creación y aporta estructura.
+
+
